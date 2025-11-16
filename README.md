@@ -1,6 +1,13 @@
 <h1 align="center">Modulout – Custom Development & High-End Software Solutions</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/services-custom--development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/stack-PHP%20%7C%20WP%20%7C%20Golang%20%7C%20APIs-9cf?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-commercial-orange?style=flat-square" />
+</p>
+
+<p align="center">
   Premium development services for sports analytics, tipster platforms, and advanced WordPress solutions.
 </p>
 
